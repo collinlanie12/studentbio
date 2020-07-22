@@ -4,6 +4,7 @@ header{
 img{
     height: auto;
     max-width: 20%;
+    border: 15px solid black;
 }
 p{
     font-family: "Times New Roman";
